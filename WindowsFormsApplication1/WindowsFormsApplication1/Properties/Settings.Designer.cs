@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HolaMundo.Properties
+namespace WindowsFormsApplication1.Properties
 {
 
 
